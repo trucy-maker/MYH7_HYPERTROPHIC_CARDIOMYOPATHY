@@ -1,0 +1,6 @@
+HGVSc,Protein_Region,ClinVar_Class,gnomAD_AF,REVEL,AlphaMissense,ACMG_Bioinfo_Criteria,Final_Classification,Clinical_Takeaway
+NM_000257.4:c.4472C>G,Rod domain (aa 1491),Benign,0.0118627,0.398,0.1415,BA1;BP4,Benign,Textbook benign variant: high population frequency (>0.1%) concordant with benign in silico scores.
+NM_000257.4:c.2945T>C,Rod domain (aa 982),Benign,0.00174092,0.956,0.7052,BA1 (overrides PP3),Benign,False-positive in silico outlier: high REVEL/AM scores overridden by stand-alone population frequency (BA1).
+NM_000257.4:c.2513C>T,Motor domain (aa 838),Pathogenic,0,0.923,0.957,PM1;PM2_Supporting;PP3 (+ clinical PS4/PP1),Pathogenic,Strong concordant evidence: absent in gnomAD and located in MYH7 critical motor domain (aa 181-937).
+NM_000257.4:c.2681A>G,Motor domain (aa 894),Pathogenic,2.05219e-06,0.966,0.3963,PM1;PM2_Supporting;PP3 (+ clinical PS4/PP1),Pathogenic,Predictor discordance: high REVEL (0.966) in motor domain while AlphaMissense scores ambiguous (0.396).
+NM_000257.4:c.5302G>A,Rod domain (aa 1768),Uncertain_significance,0,0.856,0.9971,PM2_Supporting;PP3,VUS,High in silico scores alone (AM=0.997) with absence in gnomAD are insufficient to upgrade a VUS without clinical data.
